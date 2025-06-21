@@ -339,6 +339,13 @@ These permissions might need elevated permissions, so make sure to use `sudo`.
     sudo deluser <user_name>
     ```
 
+- `groupadd`
+  Add a group
+
+  ```bash
+  sudo groupadd developers
+  ```
+
 - `finger` (Yeah, yeah I know :) )
 
   Review and check a user's details
